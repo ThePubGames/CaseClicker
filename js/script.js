@@ -7892,6 +7892,7 @@ var cases = {
 			},
 			weap2: {
 				name: "M4A1-S | Bright Water MW",
+				
 				price: 33.25,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO-jb-ElPL1PYTThGpH5_p9g-7J4bP5iUazrl1rMmD3JoKRew88Z1nV-VS5xOzpjMfqvZrNznFg73Rx4i2IyxDh0E0ecKUx0mgVIkh6"
 			},
@@ -7957,14 +7958,12 @@ var cases = {
 			weap12: {
 				name: "USP-S | Overgrowth BS",
 
-
 				price: 26.35,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09Svq5OCkvDxDLnDl31e1810i__YyoD0mlOx5RI_ZW_3JNOUew42aAvRqQLvwerrh8Lo6cmbmnZguSJwtHbbmkbmgBFSLrs4DZ6YGxE"
 
 			},
 			weap13: {
 				name: "USP-S | Overgrowth WW",
-
 
 				price: 27.95,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09Svq5OCkvDxDLnDl31e18h0juDU-LP5iUazrl1rY2-nctOSdAA2Mg6E_gW5yLu515HptMmcwXdquHYq7CvbnhK210ofcKUx0vvw7Doa"
@@ -7973,7 +7972,6 @@ var cases = {
 			weap14: {
 				name: "USP-S | Overgrowth FT",
 
-
 				price: 28.62,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09Svq5OCkvDxDLnDl31e18h0juDU-LP5iUazrl1rY2-nctOSdAA2Mg6E_gW5yLu515HptMmcwXdquHYq7CvbnhK210ofcKUx0vvw7Doa"
 
@@ -7981,14 +7979,12 @@ var cases = {
 			weap15: {
 				name: "USP-S | Overgrowth MW",
 
-
 				price: 34.50,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09Svq5OCkvDxDLnDl31e18l4jeHVyoD0mlOx5UZtZDv7LdOSelRoNFCCqwW5kr_u1Mfuu8idn3M3uiJz4HmPnUHmgx5SLrs4BeHLjR0"
 
 			},
 			weap16: {
 				name: "USP-S | Overgrowth FN",
-
 
 				price: 103.50,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09Svq5OCkvDxDLnDl31e18l4jeHVyoD0mlOx5UZtZDv7LdOSelRoNFCCqwW5kr_u1Mfuu8idn3M3uiJz4HmPnUHmgx5SLrs4BeHLjR0"
