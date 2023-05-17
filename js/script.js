@@ -145,7 +145,7 @@ var operationCases = {
 	},
 	case21: {
 		name: "ESL One Cologne 2014 Cobblestone Souvenir Package",
-		price: 184.26,
+		price: 1240.01,
 		img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVk54dFBopqiqJghf1_b3cj9A4Nn4wYSJxPagMeyFw21Q68N32O3DotX021Gx_Uttaj_zJIHHJ1M5Yl6D-k_-n7lVjEgWRQ"
 	},
 	case22: {
@@ -20980,83 +20980,83 @@ var cases = {
 		restricted: {
 			weap1: {
 				name: "Souvenir Desert Eagle | Hand Cannon FN",
-				price: 248.83,
+				price: 1374.91,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLZTjVD4ti1lY6FmPnLP7LWnn9u5MRjjeyP8Nrw0AO3rhFuYGr0dYKXcVI8Y12EqVC5xu3rh8fqv8mfzXJlsyUq4GGdwUIWZtGMPw"
 			},
 			weap2: {
 				name: "Souvenir Desert Eagle | Hand Cannon MW",
-				price: 65.39,
+				price: 446.75,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLZTjVD4ti1lY6FmPnLP7LWnn9u5MRjjeyP8Nrw0AO3rhFuYGr0dYKXcVI8Y12EqVC5xu3rh8fqv8mfzXJlsyUq4GGdwUIWZtGMPw"
 			},
 			weap3: {
 				name: "Souvenir Desert Eagle | Hand Cannon FT",
-				price: 43.64,
+				price: 400,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLZTjVD4ti1lY6FmPnLPr7Vn35c18lwmO7Eu43z3wTjqhJuMm_0IYXEIQJrNQyD_gK7xbu6g5a-6JjOyHJi7iIh43_D30vg-AZcby4"
 			},
 			weap4: {
 				name: "Souvenir Desert Eagle | Hand Cannon WW",
-				price: 67.99,
+				price: 332.41,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLZTjVD4ti1lY6FmPnLPr7Vn35c18lwmO7Eu43z3wTjqhJuMm_0IYXEIQJrNQyD_gK7xbu6g5a-6JjOyHJi7iIh43_D30vg-AZcby4"
 			},
 			weap5: {
 				name: "Souvenir Desert Eagle | Hand Cannon BS",
-				price: 56.00,
+				price: 298.77,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLZTjVD4ti1lY6FmPnLO77QgHJu5MRjjeyPpt703ALnqUFvZDj6J4KWdFNrNF2B81G-ybjphsO96JWfnSBnu3Yl52GdwUJxcGeYOA"
 			},
 			weap6: {
 				name: "Souvenir CZ75-Auto | Chalice FN",
-				price: 44.44,
+				price: 93.46,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73YzJb7dCJmImMn-PLP7rDkW4f7px33evFrYmg2wblrRJsZm7xddLGcFQ5ZljV-le-ybvqgJG878mYn2wj5HevAX6yDA"
 			},
 			weap7: {
 				name: "Souvenir CZ75-Auto | Chalice MW",
-				price: 43.54,
+				price: 299,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73YzJb7dCJmImMn-PLP7rDkW4f7px33evFrYmg2wblrRJsZm7xddLGcFQ5ZljV-le-ybvqgJG878mYn2wj5HevAX6yDA"
 			}
 		},
 		classified: {
 			weap1: {
 				name: "Souvenir M4A1-S | Knight FN",
-				price: 438.09,
+				price: 2499.99,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO3mb-GkuP1P6jummJW4NFOhujT8om72VGy-kJpZjr0JYSWdg9sYwmBrwS2wOnt1JXo7Zqfm3M2vCJ35HzbnQv330-9f4-Ixw"
 			},
 			weap2: {
 				name: "Souvenir M4A1-S | Knight MW",
-				price: 365.01,
+				price: 1800,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO3mb-GkuP1P6jummJW4NFOhujT8om72VGy-kJpZjr0JYSWdg9sYwmBrwS2wOnt1JXo7Zqfm3M2vCJ35HzbnQv330-9f4-Ixw"
 			}
 		},
 		covert: {
 			weap1: {
 				name: "Souvenir AWP | Dragon Lore FN",
-				price: 2885.91,
+				price: 200912.91,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17P7NdTRH-t26q4SZlvD7PYTQgXtu5Mx2gv3--Y3nj1H6qBFvMWHyIo7Adw9raF6GrlK9lLi-jJO7tJ_JzyNh63F3sX_emUPkgQYMMLL2MDRAbQ"
 			},
 			weap2: {
 				name: "Souvenir AWP | Dragon Lore MW",
-				price: 1710.63,
+				price: 103326.64,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17P7NdTRH-t26q4SZlvD7PYTQgXtu5Mx2gv3--Y3nj1H6qBFvMWHyIo7Adw9raF6GrlK9lLi-jJO7tJ_JzyNh63F3sX_emUPkgQYMMLL2MDRAbQ"
 			},
 			weap3: {
 				name: "Souvenir AWP | Dragon Lore FT",
-				price: 1127.97,
+				price: 43379.94,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17P7NdTRH-t26q4SZlvD7PYTQgXtu5cB1g_zMyoD0mlOx5UM5ZWClcYCUdgU3Z1rQ_FK-xezngZO46MzOziQ1vSMmtCmIyxfkgx5SLrs4SgJFJKs"
 			},
 			weap4: {
 				name: "Souvenir AWP | Dragon Lore WW",
-				price: 1033.35,
+				price: 32443.51,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17P7NdTRH-t26q4SZlvD7PYTQgXtu5cB1g_zMyoD0mlOx5UM5ZWClcYCUdgU3Z1rQ_FK-xezngZO46MzOziQ1vSMmtCmIyxfkgx5SLrs4SgJFJKs"
 			},
 			weap5: {
 				name: "Souvenir AWP | Dragon Lore BS",
-				price: 754.47,
+				price: 22961.47,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17P7NdTRH-t26q4SZlvD7PYTQgXtu4MBwnPD--Y3nj1H68hE-NW_2JNPAdVNtYV_Q_wO6le7u1pS-7pWfzCFnvCEq7SyOnBzi0wYMMLK7E03aCQ"
 			}
 		},
 		stattrak: {
 			weap1: {
 				name: "Sellable Cobblestone Case",
-				price: 184.26,
+				price: 1240.01,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsVk54dFBopqiqJghf1_b3cj9A4Nn4wYSJxPagMeyFw21Q68N32O3DotX021Gx_Uttaj_zJIHHJ1M5Yl6D-k_-n7lVjEgWRQ"
 			}
 		}
